@@ -23,6 +23,6 @@ The **Options Strategy Visualizer** is a React-based application designed to hel
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/options-strategy-visualizer.git
+   git clone https://github.com/shawnz/options-strategy-visualizer.git
    cd options-strategy-visualizer
    ```
